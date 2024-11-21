@@ -42,6 +42,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/NightmareLynx/NightmareLynx/output/snake.svg" alt="Snake animation" />
 
 ###
