@@ -15,7 +15,7 @@ Computers are my thing — I specialize in programming, malware analysis, and sp
   ◉ I’m committed to mastering the art of cyber defense and offensive security.
 
 
-## 𝙈𝙮 Strengths
+## My Srenghts
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
@@ -36,6 +36,7 @@ Computers are my thing — I specialize in programming, malware analysis, and sp
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 </div>
+
 
 
 
