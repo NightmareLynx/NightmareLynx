@@ -1,30 +1,27 @@
 <h1 align="left">HΞУ ДИИФИУMФЦS</h1>
 <h5 align="left">Πράγματι, ο Αλλάχ είναι ο Κύριός μου και ο Κύριός σας, οπότε λατρέψτε Τον. Αυτός είναι ο ίσιος δρόμος.</h5>
 
-###
+`<p align="left">"Computers are my thing — I specialize in programming, malware analysis, and spreading cybersecurity awareness. I'm also skilled at creating user-friendly and visually appealing digital content. I understand how systems work and aim to use that knowledge to build innovative solutions tailored for you. If you ever need my help, just remember — I'm his fucking nightmare. And always remember: no one is 100% secure. I'm here to turn your ideas into reality with my expertise."`.`<br>`
 
-<p align="left">I'm Maaz Ahmad, an 18-year-old tech lover from Karachi Pakistan. Computers are my thing, and I've gotten pretty good at programming, making games, and graphic design. I also know how to create user-friendly and good-looking digital stuff.<br><br>I work hard on my own and want to use what I know to come up with new ideas that work for you. If you need a great design, a fun game, or an easy-to-use interface, I'm here to make your ideas real with care and imagination.<br>I hope we can work together and make your projects a success.<br><br><--- Jazak Allah --->.</p>
-
-###
+<--- Jazak Allah --->.`</p>`
 
 <h2 align="left">𝘼𝙗𝙤𝙪𝙩 𝙈𝙀</h2>
 
-###
+`<p align="left">`
+  ◉ I spread awareness about hacking and help people safeguard themselves online.`<br>`
+  ◉ Currently sharpening my skills in Cybersecurity and Ethical Hacking.`<br>`
+  ◉ I understand how systems, networks, and vulnerabilities work — and I use that knowledge creatively.`<br>`
+  ◉ I’m committed to mastering the art of cyber defense and offensive security.
 
-<p align="left">◉ I've secrets to building a standout website.<br> ◉ I'm currently learning Cyber Security.<br>◉ Guess what? I’m a Graphic Designer as well.<br>◉ I’m a pro at my own artistic journey.</p>
-
-###
 
 <h2 align="left">𝙈𝙮 𝘼𝙧𝙩𝙨</h2>
 
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+<img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -32,19 +29,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 </div>
 
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/NightmareLynx/NightmareLynx/output/snake.svg" alt="Snake animation" />
-
-###
