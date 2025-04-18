@@ -2,23 +2,20 @@
 
 ### Πράγματι, ο Αλλάχ είναι ο Κύριός μου και ο Κύριός σας, οπότε λατρέψτε Τον. Αυτός είναι ο ίσιος δρόμος.
 
-`<p align="left">"Computers are my thing — I specialize in programming, malware analysis, and spreading cybersecurity awareness. I'm also skilled at creating user-friendly and visually appealing digital content. I understand how systems work and aim to use that knowledge to build innovative solutions tailored for you. If you ever need my help, just remember — I'm his fucking nightmare. And always remember: no one is 100% secure. I'm here to turn your ideas into reality with my expertise."`  
+Computers are my thing — I specialize in programming, malware analysis, and spreading cybersecurity awareness. I'm also skilled at creating user-friendly and visually appealing digital content. I understand how systems work and aim to use that knowledge to build innovative solutions tailored for you. If you ever need my help, just remember — I'm his fucking nightmare. And always remember: no one is 100% secure. I'm here to turn your ideas into reality with my expertise.
 <--- Jazak Allah --->
 
----
 
 ## 𝘼𝙗𝙤𝙪𝙩 𝙈𝙀
-
-`<p align="left">`
+-------------
   ◉ I spread awareness about hacking and help people safeguard themselves online.  
   ◉ Currently sharpening my skills in Cybersecurity and Ethical Hacking.  
   ◉ I understand how systems, networks, and vulnerabilities work — and I use that knowledge creatively.  
   ◉ I’m committed to mastering the art of cyber defense and offensive security.
-`</p>`
 
----
 
-## 𝙈𝙮 𝘼𝙧𝙩𝙨
+## 𝙈𝙮 Skill[SET]
+-------------
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
