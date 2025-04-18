@@ -1,6 +1,6 @@
 # HΞУ ДИИФИУMФЦS
 
-### Πράγματι, ο Αλλάχ είναι ο Κύριός μου και ο Κύριός σας, οπότε λατρέψτε Τον. Αυτός είναι ο ίσιος δρόμος.
+## Πράγματι, ο Αλλάχ είναι ο Κύριός μου και ο Κύριός σας, οπότε λατρέψτε Τον. Αυτός είναι ο ίσιος δρόμος.
 
 Computers are my thing — I specialize in programming, malware analysis, and spreading cybersecurity awareness. I'm also skilled at creating user-friendly and visually appealing digital content. I understand how systems work and aim to use that knowledge to build innovative solutions tailored for you. If you ever need my help, just remember — I'm his fucking nightmare. And always remember: no one is 100% secure. I'm here to turn your ideas into reality with my expertise.
 
