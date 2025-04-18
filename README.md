@@ -7,7 +7,7 @@ Computers are my thing — I specialize in programming, malware analysis, and sp
 <--- Jazak Allah --->
 
 
-## 𝘼𝙗𝙤𝙪𝙩 𝙈𝙀
+## ABOUT ME
 
   ◉ I spread awareness about hacking and help people safeguard themselves online.  
   ◉ Currently sharpening my skills in Cybersecurity and Ethical Hacking.  
@@ -15,7 +15,7 @@ Computers are my thing — I specialize in programming, malware analysis, and sp
   ◉ I’m committed to mastering the art of cyber defense and offensive security.
 
 
-## My Srenghts
+## **STRENGHTS**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
